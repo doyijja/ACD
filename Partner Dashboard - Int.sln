@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partner Dashboard - Int", "Partner Dashboard - Int.csproj", "{05ADE97A-8D83-4AC9-9BEC-57C6348C6AD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05ADE97A-8D83-4AC9-9BEC-57C6348C6AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05ADE97A-8D83-4AC9-9BEC-57C6348C6AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05ADE97A-8D83-4AC9-9BEC-57C6348C6AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05ADE97A-8D83-4AC9-9BEC-57C6348C6AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F6265BD-9A2D-41B9-AF68-8F926AA4ED7D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://abrdmdslic04:8080/tfs/npo%20web%20team
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Partner\u0020Dashboard\u0020-\u0020Int.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
